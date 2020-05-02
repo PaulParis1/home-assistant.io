@@ -52,7 +52,7 @@ meteo_france:
 
 ### About `city` configuration
 
-This integration use the Météo-France search API to get the first city from the results returned.
+This integration uses the Météo-France search API to get the first city from the results returned.
 
 It works well with french postal code, city name, etc. In case your expected result doesn't come first, you can set a more specified query like `<city name>, <postal_code>`.
 
